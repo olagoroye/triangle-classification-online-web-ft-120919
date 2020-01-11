@@ -26,4 +26,5 @@ attr_reader :side1, :side2, :side3, :tri_array
     else
     :scalene
      end
+   end
 end
