@@ -27,4 +27,7 @@ attr_reader :side1, :side2, :side3, :tri_array
     :scalene
      end
    end
+   class TriangleError < StandardError
+    # triangle error code
+  end
 end
